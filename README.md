@@ -9,6 +9,12 @@ Built using pure HTML, CSS and JavaScript with support for both desktop and mobi
 - Layered z-index handling while dragging
 - Touch support for mobile devices
 - Aesthetic handwritten font and paper textures
+- ---
+
+## 🚀 Live Demo
+https://pr1thviraj-cs.github.io/Student-Tracking-System/
+
+---
 
 ## 🛠️ Tech Stack
 - HTML
