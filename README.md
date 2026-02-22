@@ -25,6 +25,3 @@ https://pr1thviraj-cs.github.io/Student-Tracking-System/
 Works on:
 - Desktop (mouse drag)
 - Mobile & tablet (touch drag)
-
-## 🚀 Live Demo
-https://your-username.github.io/your-repo-name/
