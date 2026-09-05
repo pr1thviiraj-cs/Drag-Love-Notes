@@ -16,11 +16,10 @@ Built with **HTML, CSS, and Vanilla JavaScript**, with support for both mouse an
 
 ## 📸 Screenshots
 
-![Bg](./images/bg.jpeg)
+![Bg](./images/Screenshot.png)
 
 ![1](./images/1.jpeg)
 
-![Heart](./images/heart.webp)
 
 
 ## 🌐 Live Demo
